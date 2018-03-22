@@ -118,7 +118,8 @@ function Nocturne:LoadMenu()
 	self.Menu:MenuElement({id = "ComboMode", name = "Combo", type = MENU})
 	self.Menu.ComboMode:MenuElement({id = "UseQ", name = "Q: Duskbringer", value = true})
 	self.Menu.ComboMode:MenuElement({id = "UseE", name = "E: Unspeakable Horror", value = true})
-	self.Menu.ComboMode:MenuElement({id = "UseHYDRA", name = "Use hydra", value = true})	
+	self.Menu.ComboMode:MenuElement({id = "UseHYDRA", name = "Use hydra", value = true})
+	self.Menu.ComboMode:MenuElement({id = "comboActive", name = "Combo key", key = string.byte(" ")})	
 	self.Menu:MenuElement({id = "HarassMode", name = "Harass", type = MENU})
 	self.Menu.HarassMode:MenuElement({id = "UseQ", name = "Q: Duskbringer", value = true})
 	self.Menu.HarassMode:MenuElement({id = "UseE", name = "E: Unspeakable Horror", value = true})
@@ -192,10 +193,10 @@ end
 
 function Nocturne:Tick()
     if myHero.dead or Game.IsChatOpen() == true or IsRecalling() == true then return end
-	if self.Menu.HarassMode.harassActive:Value() and self:EnemyInRange(1000) then
+	if self.Menu.HarassMode.harassActive:Value() and self:EnemyInRange(1300) then
 		self:Harass()
 	end
-	if self.Menu.ComboMode.comboActive:Value() and self:EnemyInRange(1000) then
+	if self.Menu.ComboMode.comboActive:Value() and self:EnemyInRange(1300) then
 		self:Combo()
 	end
 	if self.Menu.ClearMode.clearActive:Value() then
