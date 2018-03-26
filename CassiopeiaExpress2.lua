@@ -332,7 +332,7 @@ function Cassiopeia:Combo()
     if self:CanCast(_E) and self.Menu.ComboMode.UseE:Value() then 
 		--local etarget = self:GetETarget()
 		if target.pos:DistanceTo(myHero.pos) < E.Range and self:IsPoisonedTarget(target) then        --self:GetETarget() then
-			control.CastSpell(HK_E,target)
+			Control.CastSpell(HK_E,target)
 		end
 	end
 
