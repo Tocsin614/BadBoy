@@ -116,7 +116,7 @@ end
 
 function Cassiopeia:LoadSpells()
 	Q = {Range = 850, Width = 75, Delay = 0.40, Speed = math.huge, Collision = false, aoe = true, Type = "circular"}
-	W = {Range = 800, Width = 160, Delay = 0.25, Speed = math.huge, Collision = false, aoe = true, Type = "circular"}
+	W = {Range = 800, Width = 60, Delay = 0.25, Speed = math.huge, Collision = false, aoe = true, Type = "circular"}
 	E = {Range = 700}
 	R = {Range = 825, Width = 80, Delay = 0.6, Speed = math.huge, Collision = false, aoe = true, Angle = 40, Type = "line"}
 end
@@ -345,7 +345,7 @@ function Cassiopeia:Combo()
 
 	if self:CanCast(_W) and target.pos:DistanceTo(myHero.pos) < W.Range and self.Menu.ComboMode.UseW:Value() then 
 		local castpos,HitChance, pos = TPred:GetBestCastPosition(target, W.Delay , W.Width, W.Range,W.Speed, myHero.pos, W.ignorecol, W.Type )
-        if (HitChance >= self.Menu.minchance:Value()) and not self:CanCast(_Q) and not self:GetETarget() then
+        if (HitChance >= self.Menu.minchance:Value()) and target.pos:DistanceTo(myHero.pos) > 300 and not self:GetETarget() then
             self:CastSpell(HK_W,castpos)
 		end
     end
@@ -400,7 +400,7 @@ function Cassiopeia:Harass()
     
         if self:CanCast(_W) and target.pos:DistanceTo(myHero.pos) < W.Range and self.Menu.HarassMode.UseW:Value() then 
             local castpos,HitChance, pos = TPred:GetBestCastPosition(target, W.Delay , W.Width, W.Range,W.Speed, myHero.pos, W.ignorecol, W.Type )
-            if (HitChance >= self.Menu.minchance:Value()) and not self:CanCast(_Q) and not self:GetETarget() then
+            if (HitChance >= self.Menu.minchance:Value()) and target.pos:DistanceTo(myHero.pos) > 300 and not self:GetETarget() then
                 self:CastSpell(HK_W,castpos)
             end
         end
@@ -433,21 +433,21 @@ function Cassiopeia:Jungle()
 	local minion = Game.Minion(i)
     if minion and minion.team == 300 or minion.team ~= myHero.team then
     
-        if self:CanCast(_E) and myHero.pos:DistanceTo(minion.pos) < 500 and self:IsPoisonedTarget(minion) then 
+        if self:CanCast(_E) and myHero.pos:DistanceTo(minion.pos) < 700 and self:IsPoisonedTarget(minion) then 
             if self.Menu.ClearMode.UseE:Value() and minion then
                 self:CastSpell(HK_E,minion)
             end
         end
     
-        if self:CanCast(_Q) and myHero.pos:DistanceTo(minion.pos) < 500 then 
+        if self:CanCast(_Q) and myHero.pos:DistanceTo(minion.pos) < 700 then 
             if self.Menu.ClearMode.UseQ:Value() and minion then           
                 self:CastSpell(HK_Q,minion)
             end
         end
     
-        if self:CanCast(_W) and myHero.pos:DistanceTo(minion.pos) < 550 then 
-            if self.Menu.ClearMode.UseW:Value() and minion then
-                self:CastSpell(HK_W,minion)
+        if self:CanCast(_W) and myHero.pos:DistanceTo(minion.pos) < 800 then 
+            if self.Menu.ClearMode.UseW:Value() and minion and myHero.pos:DistanceTo(minion.pos) > 300 then
+                self:CastSpell(HK_W,minion.pos)
             end
         end
         
