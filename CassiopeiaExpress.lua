@@ -1,4 +1,114 @@
- 
+--7i7rririirrrrirrrrririrr7r7r7r7777v77rrrrrriririri7r77v77rrr7rrrrriiiiiiiiriiii:::............................:.:.:.::::::i:iiriri
+--7:iiiiiiii:::::::::::::::::::iiriiirii:::::::::::::iirii:i::::::::::::.:::......                     . ... . . ..........:.:::::::
+--vrv7vLYvL77rrrriiiiiririiiiiirrrrrrrrii::::iiiiiiiiii:i:iiiiiiiiiii:iii::::::::...................:.::::::::::::::::::i:iiiirrrr7i
+--7r7vvv7v777rrriiirrrirrrrriiiiiiiiii:i::::::::::::::.::::::iiiiiii:i::::::::...:.................:.::::::::::::::::i:iiiiiirirr77r
+--r:r77rrrririi:iirirrrrrrrrriiii::::::::.:.:.:::::::.:.:.:.::::::i::::::::::::::.:...............:.::::::::::::::i:iiiiiirrrrrr777r
+--r:irrrii:i:i:::i:iiiiriiii:i::::::::::::.....:.:.:::.:.:.:.:.:::::::::::.:.:::.:...............:::.::::::::i:::iiiiiirirrrrrr77v77
+--7i7rrrrii:::::::::::::::::::....:.:::::.:.....:...:...:.....:.:::::::.:.:.:::.:::.:.:.:.:...:.:.::::::::::i:i:iiiiiirrrr7r7r7777Lr
+--vr7v77rrii::::.:.....................:.............:.........:::.:::::::::::::::::::.:::.:::.::::::::::::i:iiiirirrrr7r7r7777v7v77
+--Lrv77rrii::::.................................:.:.:::.:.:.....:.:.:::.::::::::::::::::::::::::::::::::i:iiiiiirirrrr7r777777v7vvL7
+--7r7v77rrii::...............................:...:::.:...:.:.:.:.:::::.:.::::::::::::::::::::::::::::i:iiiiiiiirrrrrrrr7777v777v7Lv7
+--i:iiriiii::::...............................:.:.:.......:.:.:.:.:.:::.::::::::::::::::::::::::::::i:iiiiiirirrrrrr7r7r77v7vvvvLvs7
+--:.::::::::::::.......:.:...............    ...     .i. ....:.:...:.::::::::::::::::::::::::::i:i:i:iiiirirrrrrrrr7r7r77v7v7vvLvYLv
+--:.:::::::::::.:.:.:::::.:.:.:........ .rvi:.::ii7vuIgK..:::::.:...:.::::::::::::::::::::::::i:i:i:iirirrrrrrrrrr7r7r77v7v7vvLvYLJv
+--i:ii::::::::::.:.:.:.:.:.:............UPPgq55bEZK1YSqB2 .:.:.:.....:.......::::::::::::::::::i:i:iiriririririrrrr7r7r77v7v7vvYvsYL
+--7:rii:iii:i::::::::.:.:............. :Q2J2PdbKUJsjSSPBB   .........:rr:.......::::::::::::::::::iiiiriririririrrrr77v77vv7vvYvsLsv
+--rirririrrririi:i::::::.............. .MMjJ7Usrvr.rQRDBQU    .........7SqbPjr...::::::::i:i:i:i:iiiiririririrrrr7r77v7v7v7LvYLYvJsL
+--:.::::::::::i:i:i::::............... :Bv iSvYIr :rbBBQBQgqI       ...:qsUIbQK.::::::::i:i:i:iiiiiiriiiiirrrrrrrr7777vvLvLLsLYLJYjv
+--. .......:.:.:::::::.. ..:i7u1i..... 5B7rXBbgBQMIjPBQEMBQZqv:::ii7LJs2jvv1Xgg:.::::::i:iiiiiiiiririiiiirirrrrrr7777v7vvLvYLsLJsJJY
+--. ............:.:.:...iY5J7S7. .....JDQPRQg:UBQBPvBDPSgBgvEBQ15SqSL7uujsKdQBD..:::i:i:iiiiriririririiiiiiiiirirr7r7r7777LvLvYYJJuY
+--. .........:.:::::..iPP1v7rurrrrrvijgQXZDBq7rdBBXEQDQBBDJUgDPZKIJvrZq2uZRBBb...::::iiiiiiiiiiririiiiiiiiiiiririrrrr7r77v7v7vvsJuus
+--. ............:::::.Id172ILJqS5XPP7uBBQgEBBJYQBbjQMQBE2i5BQEgUPgSs2PKgBBBZr  .::::i:iiiiriiiiiiiiiiiririiiriiiririrrrr7r77vvYsuj1J
+--. ...............:..PQgPqP1UqqU1DBUiPBBBbIBBRQB7XBBgXvrDEPKqv1ZgSrSBBBQK:  ..::::::iiiiiiiii:iiiiiiiiriiiriririrrrr7r7r77vvJJ1u2Uu
+--: ......:::::........UQBRZuYJdMLjMQ2:JMQBqBBBgBBBZU7:bg1S2rIZbDDQXBBZr.  .::::iiiii:iiiiiii:i:iiiiiiiirirrrrrr7r7r7r7r77vvYYJYsYjv
+--. ....:vr...:r:..:... :qQBXKE5ZMYIusdr sXRBBBBBKJ7.UPs7gUsSQMBBBQQJ:   ..::i:iii:iii:iii:iii:i:iiiiririririrrrrrr7rrr7r77v77777777
+--. . .ivriii.rY2i....:.  rSQBBQQRdJEbUJ2: r. s 7..UDIUXgDgddMQRPv:.  ..::::::i:iiiii:iiiiiiiii:iiiiriririrrrrrrrr7r7r7r7r7r7rrr7r7r
+--. .:7us7uQBQUrrj:....:..  .r2BBBBgPDgEIsvYr71iiXubKPbdKPP5qQX....::::i:i:::::iiiii:iii:iiiiiiiiiiiirirrrrrrrr7r7r7r7r777r7r7777v7r
+--. LDgPIXBBY   ..:........     iYPRQEPJUPb2ZP5Js1ZbqI5SPdPgBB. :::.::iii:::i:i:iii:iii:i:iiiiiiiiririirririrrrr7rrr7r77777777v7v7vr
+-- iR7rBBBBr ..........  .          .77bDSsv77rrLuJSZQQBQqKBB. .:..S.::i:::::i:i:iiiii:i:i:iiiiririririrrrrrrrr7r7r7r77777777v7v7vv7
+--5BB.sPBZr ..:.............. .         QBBDQBBgQBBBP1BBb2gB: ... vB7 ::::::::::i:iiiii:i:iiiiiiririrrrrrrrrrr7rrr7r7rrr7777v7777vvr
+--MQBBBMI. ..:..............            .BQXuBBKPBBgvXgU7IBI  . .EBBL ...::::i:iiiirii:iiiiiiiiriiirirrrirrrirrrrrr7r7r7r7r7r77v7v7i
+--QQZ:.  .....:..............            7g77:: .:.iL7rijSBD   .BBBBbr7i:..:::i:iiii::i:iiiii:iiiirrriiiiiririrrrrrrrr777r777rrrri72
+--Qd  ...:.:.:.:.:...... . .         B    I5.    .: .:r1JEBB. 7RBBBB17vU57......:::::::iiiii:i:iiiiiiiiiiiiriririrrrr777777vr7r:iKRB
+--B. .:.:::.:...:.... . ..          iBr    Q1: :75: :i7YXBBRQBBQgRBKrii7J52i. ir:..:::iii:::i:i:iiiiiiiiiiiiiiiirirr7r77777riPBEPBBD
+--d:.......... ..... :LK: .i        UBBZ    qX:uQZqRK7jgQBQgQBqbQBXU5XI5jj5ZPuEBEi:..::i:i:iiiiiiiii:iiiiiiiiiiiirrrr7r777rirBBBRQY.
+--MRgXUvrirSZP5Li:..11Pg:iv..   .:::7uDBB5.  gPvq2PKLPBQQQB5gQZPBPUqDDgZPIsvj2JYPggb7.....:::::..:::::i:iiiiriririririrrrii:qBM2P7::
+--RDZDdPI2jJIggBEJbBBBQBBQ7:r77i..     .5BBBBQBMuv75BBQQgBBYLEQBQLvsJIS5jgIUKM7iiv5dBR2u7:.....:r:.....::iiiiiirrv777vi:ivYXRBs..i7r
+--DdgDgZgEEKPPQPQ: iKZj7gDBgbXI7r:..     :SQBBBgBBBBBQMgBQBPr.2BP::.i:i77YMBBBQv77uuXBQXXbgPIJSBBgZXu7ri:.....:iLY1sIXRbXPMQBBMZU:r7
+--ggDMgRMMggZZbEMB7. .1d1gdgrvivSJri:::..  :vPMQBBBQZZgBBBvPQd:Qr  ..::vYBBBggQB51J1UDQQ5r7PBQSY1QRQQBQQZKjL7rv7i7jjrudPSQQQgQKRBRir
+--RgRRQRQRQQQRMggBBM5:.rZBZgX:rrY1X1vrririi:::irsIZQBQE1MBSIIBK..    :i:BdB1i7bMQqbEgBB5BBb7vXQgKgQgMZggQQBQRDZ511uqgBQ1JbgRRR2YY2Zv
+--QQQBQQQQQQQRgBQQbMQBgUYRMZB7:rvY7552Lr::::.:......:ij1r1QBPBB..:..  iXBi...i5QgQBBJuPgERBBDJrLdBQRRQgRDgDMgRMQMQQQgMgQRgPDMQILYvvJ
+--J5BBQRQQQQQQBQBBBQggBBBBgDBRYjDquY2KqSu7i::..        ....:rvP..v::7rLBBv ZR7qDRBs.    .:YbBBBDDQBBBBBBBQBBBBBQQQQMMMQRQZEZQgDLvsIj
+--. i2gQQQBBBBRqLr:sMBBBQRMRdZqLMBQgbbqdPZXJri::..     ...:ii:..:77:rJQqKMYYvsZQQB  .:.. .7LY2PQQQqKPqPdPPEEPggQQQQBBBBQQBQQgBBBd2YU
+--:....:jKXsr..    .i:JZQQEDQQBPJ5dgQBBDggMgbs7ri::.    .i:.:7JJuJv:rQ5vBqRvqQDRBj .:.:.:vvrvUb52u7vs7ss7rvr715XK52LJ15uqPgZgMQBBBBM
+--i::i:........:.:::.  iivKPYi.      .LBQdqEDMIJv7i.    .7r. :irYPIZBB EsuQBgPZBU .::::ri777JdKKq5JXX55X15ssUULqZDPXv1UULJ1IsYj5SgMg
+--r:iii:ii::i:i:i::::.... :.    .      .DQbIU2ZK2Jjrri  :LUSKKDZQQBBBi15KQQQRgBB: ..irivrirYgMEKPU2XX2XI2KU2b2XKEdEdP555PPPKPPPS5sJs
+--i:iiii::::::::::::......     .         7QBP5IbXPrvr rDQQBBQBQB1MXDvuB5gDRBQQBBX .::v77uqXqIPPdPbKbXKPX5S2X12K2IZgESbbEKqPdqdbPbgPK
+--i.:::...............................     5QEbPUrirrQBPL2P .vPgbZMDXPuBRqQRBDgBB7 i7jPPRB5:SEgQEMQMREDZZqbP525uPgMddPPXK5PPPqPqPPDb
+--:.....................................    vBBq7vqKBM72.  iQgr1DBIPPIDZBbqQBb1gZBRZMBMgPMs:7XMDgBgggKgBQBBBBBRMDZggZEKX2I1ddPKP55Xb
+--. ..:.:::.:.............. ............... .SRZgQBQBSLir. :qU5DXMBQMBgS1ZgXPI2SEBB5DZQggdgQPP1vMEgQBRBBPqPZMRQZdPPIqDPKS22udPbPSISU
+--...:::::::::::........ . .................   ijBBBBbS1v5dSPdggPdMBQBQBMKIPqdsXdMQMEIMPdBPEgZdb2vv1SEbPKKv7LJ2S22PPPREdKS1sIdXX5XI1
+--:.:::::::::::.:......   ..............:...:..  .XBBBRMRDgQBMggQQQdEZQBdbMS2Y22P5gdD1dQ5bBKEZdZEujvLY1KgMgI5ISEbPEqUjKUqdgEbI2j2uuU
+--:.::::::::::::.:...:.............:.:.::::::::::. .1BBBBBQMggMBBBQQD5sjUZiKZXZPIJ1QQBbDRXBQ2ZPUjvi:iggZXu7sgZKu7Yv1XvUXvjXPEbIJv1PE
+--:.:::::::::::::::::::::::::::.:::::::::::::::::::.  LBBBBBBQBQQRRgMMDDMgI1gMESJUYJdEBQbDZEYXg55JsL15dd1r7vPqXK52JbgvI5j5dqqKS1KbPI
+--:.:i:::::::::::i::::::::::::.:::::::::::::::::::::.   .7XBQBBBBBQBQBBQDEDgEEUERK2ILujEQZZdUKZgQdXq2uiXMZ5S5bSXPsL7PRPEEQDvi7YqPqXu
+--i.i:i:i:::iii::::::::::::.:::.::::::::::i::::::::....     .:7JKPZQBBRrPDqLLvSMBgbqKJ7rXgdgBXdKXUssI1iYRqJYS22rb5Yi:jZdZqKjUSXXqIIL
+--:::irriiirir:i::::::::::::::.:.:::::::::::::..........          .sXBBgbMEZgEIYjgBBRgPurvSjQMU:..vRgdqqr:rZZDj7ZZ5s:KdKqP5SKP5XusJj
+--i:v7..:7v:..i ..:..:::..:::.:.::::::::::i::::::...... . .....  .7jIMBBBBSvEdZb2vY2RBBBQvJ2igZ1:.IXEbdPbJuPqXqSXUXPqg5111Js2ujLLY1j
+--2..i  .ir: .77.rr. :::::...:.:.:.::::i:i:i:i::::...... ....  .LIJUgPBBQBgj5u7sXDIsJs5XMBYsLvbgJIjvJQgDgqrrrLJjr:SBBDZ17rir777YY11j
+--g. :P:.i5j:rqgdIDIv7r:vuL:..:::::::::::::::::::.......... .iPUIUqggUqqPKbEPXqIX1. dBgX5uI:uBDqYi:.iSPSUi:....qP11JubMgXv7r7vYLsYuJ
+--qPd2rISuvu2qEDKUJXj5277j7vvi...:::::::::::::::.....  :7i.:iURULUD5 .i77J7i...:irrv7L7sIDZPXRgKKri..r  iPPPSviEZ17: vBQQEPPqdqPKPqP
+--KXZdKUSsuuXu1XP221:r7.:Y:.7Iv:..::::::i:::::....ir:.7r: iJJ2RsKQBK:PMdqERMQQQPv:YRZgI .:UZX2IPgbEPZZv.bRgggMQDPvr::igDMguvJUKSPqP5
+--PXSdZEKbKXUKS5SXIb1L5vSY:v22jj7i..:::iii::..:..ri::X. :7Ssr2qPPYL7JBBRDEPggQs.   LPsL    rY:.:KPj21v:iL2Id52svrvU2Y7gMDRQui7Lu15II
+--q2XSX552XKPXPqbEdPd5UYq2rrXri2UJv:.:iii...rUSrJii7q5j5qPYvJIqEQd. JQQZgEbbPX7.    . .:    i.  I    :.  .rvL.  JgBDdSSqDMQBUrLJ1U5I
+--7rrrrririr7YLuIPbPPDPIX52PPX2gD2UI7....:YZdbPQMDSqJi7jXsr55qbBQBU.dQMDgEsJX1i    ..   .7j25i rXv  1Qgu   sJ:  XRZZPq1j2RgQQdJU2SSS
+--r:riririi:::::rsKXqPdqKIsSIYSPZDZIqXi::2BQQRQQBBBBBBggqj22DqBRRBg.5RRPEPLrsIiiqbKbX    iXJ:.v55r..vXqbX1XLJ21vvggbPXXU1UZgMBDUI2X2
+--i:iriiiririii:::isSXXEb11ESXdU1RQDIgIYv57IPRQgqSbPKqgQbZqESqBQBBv:PQgbXgYri::vjDPd1  :vZS1   :.    rX12Pv.:7L1YYdbqq55I22gRRBRSqKK
+--r:ririiiiiiii:i:::7uIqD5P2U5dSDBBbSsiij  iUqrru22rjSZKgRRMKrBQB5..PRg51ZPXP:.7sr2PK7r:.:v. ig2j:   iY...irr:. .iqKbKK5KSjdgDQQgSbK
+--rirriiiiiiiiiiii:i:irsU5qDMQMDRB5Yv  .r..ijXiYIP7s5PUJsQQBbYUZ7:jQRBQqjZqISdKbi  r7ur   .  :sIuP7.:qJ.   .:r:. 7bPqqI5XPLPREZMQg25
+--r:riririiiriiiiii:i::7uu2IgQBQqi:Ui.:71  7P7vXdPPZZDguvBQQEPPu7QBB1dgdDXqr7r:i7  .  :rj1qi   P7.vS5r:rv: rPqI7vXZPPS51ujLdDPEZgQdU
+--r:iiiiirrriiiiiiiiii:is2us1Qs7vL7q   :i.KgD5XqdPKPdPErXBQRgQBURBBg:KMPXS2KKv::vZdK:  iXuUP. 7gJ  .ir.:UPKQZDDgDDdP551uYY7gPK5KPgR5
+--i.i:iirii:i:i:i:i:i::.7u21IvrPi .: rIq7vUSqY5qE5ZDMdD7gMPPQQMPBQ2s72BU5sUdRj  :PqE7   jjvUXIPSP7.  :i..r5bZbEdDZb55jUsYruZPIUjSXDP
+--:::i:iii:::i:::::::::.:1SSJYvL .rJ:.rXiYUEXPdgEdZggE2vQ1rSBBDBdsJQULBuY1IqU2. YESP1  .Kv  .v7rirL.7Svr  YEbbqdPq2UUSjvr7dbXIuuu5IP
+--i.i:i:::::::::::::::rii7UJqYrLY:iKirqK1qZZdSqdPqPZZPqjQ5vYMBZsrPBQ77QKvZEIIKDDDPSsUUXPE7   :i:iiUdQMRddKEPKI52sYjYUjsrrqESS12uuJUj
+--:.::::::.:.::iirr77v7riv5ZgdKgdDgBRQQBgRgMgEdbKZgXjISXgZPUSS7rEBQQijBMvYvivKPPPZJ77s1IUsirrJ7. iIIPdDgZd2UjYv7iiv1JLirqb5I1U11Yj1J
+--:.::::iirr7vYvLvv77rriJPgRgdBBBBBQqKRZ5XZgQQBPPQKrU15vgEZbqQPSBISU.2BP2jvii72JPU. .7urrsdQQgq: :JSdqPS5Yv7Lrriirvv7:LPP5522ujs1Ljs
+--ii7YsuJujusJvL77rrrri:qRgBBBBQI1PLiubP1KEQQBBZPRD7rsJj5g5KIRRQ2JgR.qRL5BQBRv:rvLPZqPJ. :YgDbEEIjKE5KI1sv7v7r::::::r1PqIjJI1UYYsjvL
+--1LUJJLL7v7777rrirrrirs2vXKMqdi iXv5DgdXPggQMP5bbgbUY1UY5PssUgISdPi 1qjBQQBBg  iqBBBBBv:iKDdKPdggDXU7rrvriiii:   .vqXSU1susUJL7u1J7
+--v7vvr7rrr7rrirr777iss7.iXX::7iYEEdIXPdXQDgP12SXX5EdqujjUs5s1KUgB7 qZr2BRgQRBgIPd2ZQMgBQBQQZKKPqdqI7i:iri::   ..71X221UJ1juYY77rJuv
+--Lr7r7rriiirr77v77rus:i.vE7.YISPIE5jKgEgbdd7vU5IU1jXPbS1usrv5PZQr.IZ55UBggMBMBQBBQDEDDZMbgRBgqussJv7rr:...   :vIXXUUujYJsY7rr7777J7
+--7irririrr7r7r7rrrrirrKY7Y2SdqXi7PZPRMZXPZDrr77YU1UjSbZKPXvrYY7:.uELuPBgMgDgBQBQRPDQgdZMgdMgBQEuv77rr::.::rY2SP5I12Js7vrrii:irrrr7s
+--r:rr77v7vr7rrirrr.:srJXdbDj.7UUERMEdgqP5DMPv77Jj221sIUIXbZBggP7JQj2UgQQQg77sY7uKvUIjbPSUdRRPQBQZEqS55U5SqSqI5IIJjvLrrii:::iirrrrvU
+--ri7777r7irr7r777v7v7.qgPYS:72PdZqEKPPdS2IbdDPP52u2uus1SP7r:.IQ5ESLsPRRQDIq5vJLYYjd5s1PbuiIMbPMRQPqXqXK552Ussvvrrrrri::::..:i:iirU5
+--7i7r7r7r77v7v7v7q7.i1gRi:YUKDdPI5bMKE1sXIJ1KEEZSqISqZX2:...:JqqX7LMMgPDiXMusKgQgRRMPbEPdsrJPgdggMXIuJj1JsLvrriiir::::.:.:...i:72Xj
+--rir7777vvLvL7v7Yq::SSU572EEKYSdKbQMEqrvuujuIXS252qPEr..::i:.r2gdIJEQ1ULv5ZXQQRgDDggRgQQQRg5r5DXDZRqjYvrriii:::::.... ....:.:iJSXIj
+--7i7777v7YvLvvr7.271EJsIU2vP7sPRDMgdMYi7v7J5XSJU1SqP: .:::::.7KMPSIQKYXvvqXXRQDEDMEDDggRDRgELrd15bZDXvriiiii:.         ..::rL5S51Us
+--7irrr7r7rriii::.qq75uU5Si7ssXREEKPPMbJ77r1U2jSXPPIi::iiiiii:iu2PuggbJI7YSudggRgZEDgD2Y77vjXPuJu5SPSgI7ri::..          .ivUIK2IuU1j
+--riririiii:i::.7r2Jv5SUSSuPddREXbZPMbEdE5PddKPbPPv.:irrrrrr7risXEKMQq2biJS2gPEZMPKXjUXu2v77LLU27PBY7qZX7ri:...   ..:i7v12qII1211Juv
+--i:::::::::::.:Zq:KbMBgRQMBZdMggQDgdX5qKddbKKSIjD7ir777r7r7rrirIPdgD17S7Lj2gZbZDSXqYSXsqZuYU2PMju5Iv5SDgP1jLL7vvsLUU5II25U2U2jJsJsY
+--i.i:iirrrr7rirQDPQBDbMgqQKvSgDQQMbKJ215XK5X21YKg7irrrrrrrrrrr:YqMPP5XX7UsiDdbZbU22PdduqP22KdBMQ7iLKKDJPqPSKXqSKSI2Iu1JuU522jJYJLL7
+--7r7L7777rri:.7QQRBQg7U2rsS2gZgRQgqU12KSX5KXSs5gDiir7r7rrr7rrrirXP5P5Y2:7vrPEEKUSr7UdPdPZgZPgggQqXJ25IuLIsJJ1JJs1uuJu15uUjJYYvv77v7
+--7:i::........vDgBEQdL2U7XdDPqdgggUS2XSKKPqPqEZgbir7r7r7r7rrrri:vPId5vIu7PXZDYrrYvJUIJXP2P2XdEdZP1P1irUjuJvJvYvsYusuuuLsLv77r7rrr7r
+--.....::rrrr7r7LKd5PZj7IbZSqqPMZDbJjJ2X5qPdqKZEbbirr7r7r7rririi:rS2SZIXdP5:ug1Y1Du:is1IviJSLY1KPP7uXrr1IsU7vLvsvvvv7777rrrriririrrr
+--ri7777v7v77rrrUuKqqKI1PPX1EDgdddDLL7s2qPPSjUMPPPrr7r7r7rririiii.LqXgDZPvsrUEZqSqri7U5.irU7rvjiU7UYqUrsds2vrv7777rrrrri::iii:iiir77
+--vr7v7777r7rri7rYqZKSdD1uqdEPdDPEDbU55PddIJsqPqKSi7r7rrrrirrrrrriiqbQEddUs5dgb:.7SSU5YYLJSJvjJvJs5K15Sjj5uUr777r77rii:::::i:irri7vs
+--vi777r7rrr7rrirUDbKqDgq5PbPSdDdKbdZbEPPSIjSPK1Kuirrr7rrrrr7r77vrirPEZSZKuUEdS:ri1XsrLXq1vJqUJXXiJPuJ2Ju11I7r7riir::::::.:ir7vvvY1u
+--rir77v777777rrrPqXZd1KggX2PddZPqSXSqqqS5I5UKUU5Lr7r7777v7Lvsv7r7rr7IX55XUSXKKXUL7Y.i7U5i7YuSiLU7v51sv1j2sIjrrrii::::.:.:r77v7LvjYJ
+--rirrrrrrrr7rv7Y2qXdKqKdZdPZEDdbS215U2uUIX2IIJJSYjJjJJsussYsv7r777rr722X5SKqKq5IuUJ77v72:7sJ1ivIJJUXJJsJjjj5j7iiiiii:i:i:rrrr7vjJUs
+--riirrririiirirrjKZXIPDXKPDddqEPq1uISuuUKI1USuK51u111JssYLv7rr777r7rrrUIKIKKqS1JUJvIIJjJssjL7YU1L7J2SjJJ1su12U1Lv77r7r7rvvss112uuJL
+--r:i:i::::::::..7E5KbPPdPKXdPPPPKKuI5SXXSSUKUIXu1IJYvLvL7ririr7v7777rrruuI255K1uS1vYU51i711j:rJ1JYvYuJYsYuYsvuuI2IISISISI5U2juJjsJv
+--i:iiiiirirr777ri2P5PbXKEPbdZEZPKPbXXIS5IUSUjjusUuJ7v7Lrririr77r7r7r77rrL152KI52qIUY1Su77L5u77vJ2YYsJ5511jjLvs1j2j1u1JuYJYJsJYYLJJs
+--vrv7vvLvv7LvLvvrrUEKXKPXdbEPbqbXXjUU512juuJsJYuJsvL7Lriiiiirv77r7r7r777rJ2IISI52S5I1S1jYYsXsJYsuX11j2IIIK21Luj1jsLLvLvLvYvYvsLJYuv
+--7r777vvLvLvv7v7vrrsPK525IX5KXKSSIJYjj1JjYuYYLjsJLsvJr::i::ivvv7v7v7LvYLsvu1IIXSSIXISSX5Uju2S12u2I2122qPZPP1YLYYYvsLYvYvYvsLsYJsujs
+--rirrrrrrrrrirrrii::ij2I1112UI2IUSjYLJYuJuJJsjJuJusJvi:i:i:ivsLsLjJ1uU1U1UjU155SSXIX55UI5512U5IS2KS5SqXbKX2u7vvYsJsYLYsuYYYJJusuju7
+--i:ii:i:::::::i:::::::r7ssssuJuJ1YJvYLsYjsjsjJus1j1Lr:iiiii:vuUuUu2UI252X55221uYuu1j2J1jU122512SPqPXXI22XXSISJY7sYsvsYJYYvYvYYsvYvr
+--i.i:::::::::::i:i:iiiirrv7YLYYjsjvJu111JJYjjuJusuY7iriri7777juUJ1J1u21IuujJsjssvv7sYuu22SSPPbPPqPXqSSUSqq2S5KUYLYvLvYv77L7vvv7v77i
+--i::i:iiiiiiiiririiirir77777v7YvsY1u1j1JjsusjYsLL7viiir7Lvv77r7vsvsLYLsvYYjsjj1j1uUu22XXPKPPEPbPPXK55IKKSYsLsvJssvL7v7vvL7v7v77r77r
+--r:ririririririrr77v7v7vrr777vvLvssuj1uuJjYsvv7777rr7v77r7rrii:r7vvYLYLsLYYuj2ISSqqPXq22155SUUjUu1uuj2uYrv77777LvYvvvvvv7777r7r77vi
+--rirrrrrrrririrr7rrrririiirr77v7v7v7v7vvv77rrrrr77777rrrr:iirr7iiirr77vvssUUS5KSXSXXqKq5IjuJJLsvsLYLLvL7vvLvv7LvLvv77r7r777r7r7r77r
+--7:iiiii::::::::::::.:.::::::::::::::::::::::i::::::::::.:::::.:.::::iiii7r77v7vvvvv77rrrrirrrrrrririiiriiiiiriiiiiiiiiririiiiiiii:
+--
+--
 --
 --                                                                                                     .Y..                                 
 --                                                                                 .:vXgdBBQKgs.     XQq.i:vJ                               
@@ -53,6 +163,7 @@ if FileExist(COMMON_PATH .. "TPred.lua") then
 	require 'TPred'
 	PrintChat("TPred library loaded")
 end
+PrintChat("Press F6 twice if E doesn't work!!")
 keybindings = { [ITEM_1] = HK_ITEM_1, [ITEM_2] = HK_ITEM_2, [ITEM_3] = HK_ITEM_3, [ITEM_4] = HK_ITEM_4, [ITEM_5] = HK_ITEM_5, [ITEM_6] = HK_ITEM_6}
 local castSpell = {state = 0, tick = GetTickCount(), casting = GetTickCount() - 1000, mouse = mousePos}
 
@@ -112,13 +223,15 @@ function Cassiopeia:__init()
 		orbwalkername = "Orbwalker not found"
 	end
 	PrintChat(Scriptname.." "..Version.." - Loaded...."..orbwalkername)
+	PrintChat("Press F6 twice if E doesn't work!!")
+	PrintChat("Press F6 twice if E doesn't work!!")
 end
 
 function Cassiopeia:LoadSpells()
-	Q = {Range = 850, Width = 75, Delay = 0.40, Speed = math.huge, Collision = false, aoe = true, Type = "circular"}
-	W = {Range = 800, Width = 60, Delay = 0.25, Speed = math.huge, Collision = false, aoe = true, Type = "circular"}
+	Q = {Range = 850, Width = 75, Delay = 0.70, Speed = math.huge, Collision = false, aoe = true, Type = "circular"}
+	W = {Range = 800, Width = 160, Delay = 0.25, Speed = 1500, Collision = false, aoe = true, Type = "circular"}
 	E = {Range = 700}
-	R = {Range = 825, Width = 80, Delay = 0.6, Speed = math.huge, Collision = false, aoe = true, Angle = 40, Type = "line"}
+	R = {Range = 700, Width = 80, Delay = 0.6, Speed = math.huge, Collision = false, aoe = true, Angle = 40, Type = "line"}
 end
 
 function Cassiopeia:LoadMenu()
@@ -231,7 +344,7 @@ function LeftClick(pos)
 end
 function Cassiopeia:Draw()
     local textPos = myHero.pos:To2D()
-    if self:CanCast(_Q) then Draw.Circle(myHero.pos, 650, 3,  Draw.Color(255, 000, 222, 255)) end
+    if self:CanCast(_Q) then Draw.Circle(myHero.pos, 850, 3,  Draw.Color(255, 000, 222, 255)) end
 end
 
 function Cassiopeia:CastSpell(spell,pos)
@@ -325,7 +438,7 @@ end
 
 function Cassiopeia:Combo()
 	if (not _G.SDK and not _G.GOS) then return end
-	local target = target or (_G.SDK and _G.SDK.TargetSelector:GetTarget(E.Range, _G.SDK.DAMAGE_TYPE_MAGICAL)) or (_G.GOS and _G.GOS:GetTarget(E.Range,"AP"))
+	local target = target or (_G.SDK and _G.SDK.TargetSelector:GetTarget(950, _G.SDK.DAMAGE_TYPE_MAGICAL)) or (_G.GOS and _G.GOS:GetTarget(E.Range,"AP"))
     --for i,target in pairs(self.Enemies) do
     if target and target.type == "AIHeroClient" then
 
@@ -345,7 +458,7 @@ function Cassiopeia:Combo()
 
 	if self:CanCast(_W) and target.pos:DistanceTo(myHero.pos) < W.Range and self.Menu.ComboMode.UseW:Value() then 
 		local castpos,HitChance, pos = TPred:GetBestCastPosition(target, W.Delay , W.Width, W.Range,W.Speed, myHero.pos, W.ignorecol, W.Type )
-        if (HitChance >= self.Menu.minchance:Value()) and target.pos:DistanceTo(myHero.pos) > 300 and not self:GetETarget() then
+        if (HitChance >= self.Menu.minchance:Value()) and not self:CanCast(_Q) and target.pos:DistanceTo(myHero.pos) > 500 then
             self:CastSpell(HK_W,castpos)
 		end
     end
@@ -382,7 +495,7 @@ end
 
 function Cassiopeia:Harass()
 	if (not _G.SDK and not _G.GOS) then return end
-	local target = target or (_G.SDK and _G.SDK.TargetSelector:GetTarget(E.Range, _G.SDK.DAMAGE_TYPE_MAGICAL)) or (_G.GOS and _G.GOS:GetTarget(E.Range,"AP"))
+	local target = target or (_G.SDK and _G.SDK.TargetSelector:GetTarget(Q.Range, _G.SDK.DAMAGE_TYPE_MAGICAL)) or (_G.GOS and _G.GOS:GetTarget(E.Range,"AP"))
 	if target and target.type == "AIHeroClient" then
         if self:CanCast(_E) and self.Menu.HarassMode.UseE:Value() then 
             --local etarget = self:GetETarget()
@@ -400,7 +513,7 @@ function Cassiopeia:Harass()
     
         if self:CanCast(_W) and target.pos:DistanceTo(myHero.pos) < W.Range and self.Menu.HarassMode.UseW:Value() then 
             local castpos,HitChance, pos = TPred:GetBestCastPosition(target, W.Delay , W.Width, W.Range,W.Speed, myHero.pos, W.ignorecol, W.Type )
-            if (HitChance >= self.Menu.minchance:Value()) and target.pos:DistanceTo(myHero.pos) > 300 and not self:GetETarget() then
+            if (HitChance >= self.Menu.minchance:Value()) and not self:CanCast(_Q) and target.pos:DistanceTo(myHero.pos) > 500 then
                 self:CastSpell(HK_W,castpos)
             end
         end
@@ -428,26 +541,50 @@ function GetDistance(p1, p2)
 	return math.sqrt(GetDistanceSqr(p1, p2))
 end
 
+function Cassiopeia:GetEnemyMinions(range)
+	if (_G.SDK) then
+		return _G.SDK.ObjectManager:GetEnemyMinions(range)
+	end
+	self.EnemyMinions = {}
+	for i = 1, Game.MinionCount() do
+		local minion = Game.Minion(i)
+		if minion.isEnemy and (not range or myHero.pos:DistanceTo(minion.pos)<range) then
+			table.insert(self.EnemyMinions, minion)
+		end
+	end
+	return self.EnemyMinions
+end
+
+function Cassiopeia:HpPred(unit, delay)
+	if _G.GOS then
+		hp =  GOS:HP_Pred(unit,delay)
+	else
+		hp = unit.health
+	end
+	return hp
+end
+
 function Cassiopeia:Jungle()
     for i = 1, Game.MinionCount() do
 	local minion = Game.Minion(i)
     if minion and minion.team == 300 or minion.team ~= myHero.team then
     
-        if self:CanCast(_E) and myHero.pos:DistanceTo(minion.pos) < 700 and self:IsPoisonedTarget(minion) then 
+        if self:CanCast(_E) and myHero.pos:DistanceTo(minion.pos) < 700 and self:GetDamage("E",minion) > self:HpPred(minion, 0.3) then 
             if self.Menu.ClearMode.UseE:Value() and minion then
-                self:CastSpell(HK_E,minion)
+                Control.CastSpell(HK_E,minion.pos)
             end
         end
     
-        if self:CanCast(_Q) and myHero.pos:DistanceTo(minion.pos) < 700 then 
-            if self.Menu.ClearMode.UseQ:Value() and minion then           
-                self:CastSpell(HK_Q,minion)
+        if self:CanCast(_Q) and myHero.pos:DistanceTo(minion.pos) < 800 and minion:GetCollision(Q.Width, Q.Speed, Q.Speed) >= 1 then 
+			local castpos,HitChance, pos = TPred:GetBestCastPosition(minion, Q.Delay , Q.Width, Q.Range,Q.Speed, myHero.pos, Q.ignorecol, Q.Type )
+			if self.Menu.ClearMode.UseQ:Value() and minion then           
+                Control.CastSpell(HK_Q,minion.pos)
             end
         end
     
-        if self:CanCast(_W) and myHero.pos:DistanceTo(minion.pos) < 800 then 
-            if self.Menu.ClearMode.UseW:Value() and minion and myHero.pos:DistanceTo(minion.pos) > 300 then
-                self:CastSpell(HK_W,minion.pos)
+        if self:CanCast(_W) and myHero.pos:DistanceTo(minion.pos) < 800 and  minion:GetCollision(W.Width, W.Speed, W.Speed) >= 3 then
+            if self.Menu.ClearMode.UseW:Value() and minion and minion.pos:DistanceTo(myHero.pos) > 500 then
+                Control.CastSpell(HK_W,minion.pos)
             end
         end
         
